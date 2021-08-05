@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- [Resume](https://boulder-headstand-857.notion.site/2e30e853982d4755bb7343a1f8dd134d)
+
 <!--
 **grapgrap/grapgrap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
